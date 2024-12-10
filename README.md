@@ -10,12 +10,12 @@
 - Optimizing predictive models for real-world applications
 
 ## 💞️ I’m looking to collaborate on:
-- Machine learning and healthcare analytics projects
-- NLP and data visualization dashboards
+- Data visualization dashboards (Tableau, Power BI) for business intelligence  
+- Machine learning projects  
 
 ## 📫 How to reach me:
-- 📧 Email: rahaf.k.alhuzali@gmail.com
 - 🌍 LinkedIn: [linkedin.com/in/rahafalhuzali](https://www.linkedin.com/in/rahafalhuzali)
+
 
 ## ⚡ Fun fact:
 - I built a brain tumor prediction system using machine learning and deep learning!
