@@ -16,6 +16,3 @@
 ## 📫 How to reach me:
 - 🌍 LinkedIn: [linkedin.com/in/rahafalhuzali](https://www.linkedin.com/in/rahafalhuzali)
 
-
-## ⚡ Fun fact:
-- I built a brain tumor prediction system using machine learning and deep learning!
